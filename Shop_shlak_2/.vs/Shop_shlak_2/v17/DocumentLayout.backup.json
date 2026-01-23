@@ -1,34 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\super\\Desktop\\vs_Projects\\Shop_shlak_2\\",
+  "WorkspaceRootPath": "C:\\Users\\super\\Desktop\\Practice2\\Shop_shlak_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E665587-FAC9-4F7E-810D-C53EAEE81096}|Shop_shlak_2\\Shop_shlak_2.vcxproj|C:\\Users\\super\\Desktop\\vs_Projects\\Shop_shlak_2\\Shop_shlak_2\\Shop_shlak_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9E665587-FAC9-4F7E-810D-C53EAEE81096}|Shop_shlak_2\\Shop_shlak_2.vcxproj|solutionrelative:Shop_shlak_2\\Shop_shlak_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9E665587-FAC9-4F7E-810D-C53EAEE81096}|Shop_shlak_2\\Shop_shlak_2.vcxproj|C:\\Users\\super\\Desktop\\Practice2\\Shop_shlak_2\\Shop_shlak_2\\Clients.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E665587-FAC9-4F7E-810D-C53EAEE81096}|Shop_shlak_2\\Shop_shlak_2.vcxproj|solutionrelative:Shop_shlak_2\\Clients.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E665587-FAC9-4F7E-810D-C53EAEE81096}|Shop_shlak_2\\Shop_shlak_2.vcxproj|C:\\Users\\super\\Desktop\\vs_Projects\\Shop_shlak_2\\Shop_shlak_2\\GameLoop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9E665587-FAC9-4F7E-810D-C53EAEE81096}|Shop_shlak_2\\Shop_shlak_2.vcxproj|solutionrelative:Shop_shlak_2\\GameLoop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E665587-FAC9-4F7E-810D-C53EAEE81096}|Shop_shlak_2\\Shop_shlak_2.vcxproj|C:\\Users\\super\\Desktop\\vs_Projects\\Shop_shlak_2\\Shop_shlak_2\\GameLoop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9E665587-FAC9-4F7E-810D-C53EAEE81096}|Shop_shlak_2\\Shop_shlak_2.vcxproj|solutionrelative:Shop_shlak_2\\GameLoop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E665587-FAC9-4F7E-810D-C53EAEE81096}|Shop_shlak_2\\Shop_shlak_2.vcxproj|C:\\Users\\super\\Desktop\\vs_Projects\\Shop_shlak_2\\Shop_shlak_2\\Listik.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9E665587-FAC9-4F7E-810D-C53EAEE81096}|Shop_shlak_2\\Shop_shlak_2.vcxproj|solutionrelative:Shop_shlak_2\\Listik.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E665587-FAC9-4F7E-810D-C53EAEE81096}|Shop_shlak_2\\Shop_shlak_2.vcxproj|C:\\Users\\super\\Desktop\\vs_Projects\\Shop_shlak_2\\Shop_shlak_2\\Listik.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9E665587-FAC9-4F7E-810D-C53EAEE81096}|Shop_shlak_2\\Shop_shlak_2.vcxproj|solutionrelative:Shop_shlak_2\\Listik.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E665587-FAC9-4F7E-810D-C53EAEE81096}|Shop_shlak_2\\Shop_shlak_2.vcxproj|C:\\Users\\super\\Desktop\\vs_Projects\\Shop_shlak_2\\Shop_shlak_2\\Clients.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{9E665587-FAC9-4F7E-810D-C53EAEE81096}|Shop_shlak_2\\Shop_shlak_2.vcxproj|C:\\Users\\super\\Desktop\\Practice2\\Shop_shlak_2\\Shop_shlak_2\\Clients.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9E665587-FAC9-4F7E-810D-C53EAEE81096}|Shop_shlak_2\\Shop_shlak_2.vcxproj|solutionrelative:Shop_shlak_2\\Clients.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E665587-FAC9-4F7E-810D-C53EAEE81096}|Shop_shlak_2\\Shop_shlak_2.vcxproj|C:\\Users\\super\\Desktop\\vs_Projects\\Shop_shlak_2\\Shop_shlak_2\\Clients.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9E665587-FAC9-4F7E-810D-C53EAEE81096}|Shop_shlak_2\\Shop_shlak_2.vcxproj|solutionrelative:Shop_shlak_2\\Clients.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9E665587-FAC9-4F7E-810D-C53EAEE81096}|Shop_shlak_2\\Shop_shlak_2.vcxproj|C:\\Users\\super\\Desktop\\Practice2\\Shop_shlak_2\\Shop_shlak_2\\GameLoop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E665587-FAC9-4F7E-810D-C53EAEE81096}|Shop_shlak_2\\Shop_shlak_2.vcxproj|solutionrelative:Shop_shlak_2\\GameLoop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E665587-FAC9-4F7E-810D-C53EAEE81096}|Shop_shlak_2\\Shop_shlak_2.vcxproj|C:\\Users\\super\\Desktop\\Practice2\\Shop_shlak_2\\Shop_shlak_2\\Shop_shlak_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E665587-FAC9-4F7E-810D-C53EAEE81096}|Shop_shlak_2\\Shop_shlak_2.vcxproj|solutionrelative:Shop_shlak_2\\Shop_shlak_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E665587-FAC9-4F7E-810D-C53EAEE81096}|Shop_shlak_2\\Shop_shlak_2.vcxproj|C:\\Users\\super\\Desktop\\Practice2\\Shop_shlak_2\\Shop_shlak_2\\Listik.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E665587-FAC9-4F7E-810D-C53EAEE81096}|Shop_shlak_2\\Shop_shlak_2.vcxproj|solutionrelative:Shop_shlak_2\\Listik.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E665587-FAC9-4F7E-810D-C53EAEE81096}|Shop_shlak_2\\Shop_shlak_2.vcxproj|C:\\Users\\super\\Desktop\\Practice2\\Shop_shlak_2\\Shop_shlak_2\\Listik.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E665587-FAC9-4F7E-810D-C53EAEE81096}|Shop_shlak_2\\Shop_shlak_2.vcxproj|solutionrelative:Shop_shlak_2\\Listik.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E665587-FAC9-4F7E-810D-C53EAEE81096}|Shop_shlak_2\\Shop_shlak_2.vcxproj|C:\\Users\\super\\Desktop\\Practice2\\Shop_shlak_2\\Shop_shlak_2\\GameLoop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E665587-FAC9-4F7E-810D-C53EAEE81096}|Shop_shlak_2\\Shop_shlak_2.vcxproj|solutionrelative:Shop_shlak_2\\GameLoop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,103 +38,101 @@
       "DocumentGroups": [
         {
           "DockedWidth": 196,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GameLoop.h",
-              "DocumentMoniker": "C:\\Users\\super\\Desktop\\vs_Projects\\Shop_shlak_2\\Shop_shlak_2\\GameLoop.h",
-              "RelativeDocumentMoniker": "Shop_shlak_2\\GameLoop.h",
-              "ToolTip": "C:\\Users\\super\\Desktop\\vs_Projects\\Shop_shlak_2\\Shop_shlak_2\\GameLoop.h",
-              "RelativeToolTip": "Shop_shlak_2\\GameLoop.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-20T08:30:58.509Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "GameLoop.cpp",
-              "DocumentMoniker": "C:\\Users\\super\\Desktop\\vs_Projects\\Shop_shlak_2\\Shop_shlak_2\\GameLoop.cpp",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Practice2\\Shop_shlak_2\\Shop_shlak_2\\GameLoop.cpp",
               "RelativeDocumentMoniker": "Shop_shlak_2\\GameLoop.cpp",
-              "ToolTip": "C:\\Users\\super\\Desktop\\vs_Projects\\Shop_shlak_2\\Shop_shlak_2\\GameLoop.cpp",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Practice2\\Shop_shlak_2\\Shop_shlak_2\\GameLoop.cpp",
               "RelativeToolTip": "Shop_shlak_2\\GameLoop.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAAIAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-20T08:24:51.161Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Listik.cpp",
-              "DocumentMoniker": "C:\\Users\\super\\Desktop\\vs_Projects\\Shop_shlak_2\\Shop_shlak_2\\Listik.cpp",
-              "RelativeDocumentMoniker": "Shop_shlak_2\\Listik.cpp",
-              "ToolTip": "C:\\Users\\super\\Desktop\\vs_Projects\\Shop_shlak_2\\Shop_shlak_2\\Listik.cpp",
-              "RelativeToolTip": "Shop_shlak_2\\Listik.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-20T07:28:15.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Clients.cpp",
-              "DocumentMoniker": "C:\\Users\\super\\Desktop\\vs_Projects\\Shop_shlak_2\\Shop_shlak_2\\Clients.cpp",
-              "RelativeDocumentMoniker": "Shop_shlak_2\\Clients.cpp",
-              "ToolTip": "C:\\Users\\super\\Desktop\\vs_Projects\\Shop_shlak_2\\Shop_shlak_2\\Clients.cpp",
-              "RelativeToolTip": "Shop_shlak_2\\Clients.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-20T07:01:38.624Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 204,
-          "SelectedChildIndex": 2,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Clients.h",
-              "DocumentMoniker": "C:\\Users\\super\\Desktop\\vs_Projects\\Shop_shlak_2\\Shop_shlak_2\\Clients.h",
-              "RelativeDocumentMoniker": "Shop_shlak_2\\Clients.h",
-              "ToolTip": "C:\\Users\\super\\Desktop\\vs_Projects\\Shop_shlak_2\\Shop_shlak_2\\Clients.h",
-              "RelativeToolTip": "Shop_shlak_2\\Clients.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-20T06:54:00.672Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Listik.h",
-              "DocumentMoniker": "C:\\Users\\super\\Desktop\\vs_Projects\\Shop_shlak_2\\Shop_shlak_2\\Listik.h",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Practice2\\Shop_shlak_2\\Shop_shlak_2\\Listik.h",
               "RelativeDocumentMoniker": "Shop_shlak_2\\Listik.h",
-              "ToolTip": "C:\\Users\\super\\Desktop\\vs_Projects\\Shop_shlak_2\\Shop_shlak_2\\Listik.h",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Practice2\\Shop_shlak_2\\Shop_shlak_2\\Listik.h",
               "RelativeToolTip": "Shop_shlak_2\\Listik.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-12-20T07:28:46.057Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "Listik.cpp",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Practice2\\Shop_shlak_2\\Shop_shlak_2\\Listik.cpp",
+              "RelativeDocumentMoniker": "Shop_shlak_2\\Listik.cpp",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Practice2\\Shop_shlak_2\\Shop_shlak_2\\Listik.cpp",
+              "RelativeToolTip": "Shop_shlak_2\\Listik.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-20T07:28:15.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Shop_shlak_2.cpp",
-              "DocumentMoniker": "C:\\Users\\super\\Desktop\\vs_Projects\\Shop_shlak_2\\Shop_shlak_2\\Shop_shlak_2.cpp",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Practice2\\Shop_shlak_2\\Shop_shlak_2\\Shop_shlak_2.cpp",
               "RelativeDocumentMoniker": "Shop_shlak_2\\Shop_shlak_2.cpp",
-              "ToolTip": "C:\\Users\\super\\Desktop\\vs_Projects\\Shop_shlak_2\\Shop_shlak_2\\Shop_shlak_2.cpp",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Practice2\\Shop_shlak_2\\Shop_shlak_2\\Shop_shlak_2.cpp",
               "RelativeToolTip": "Shop_shlak_2\\Shop_shlak_2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-20T07:01:36.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameLoop.h",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Practice2\\Shop_shlak_2\\Shop_shlak_2\\GameLoop.h",
+              "RelativeDocumentMoniker": "Shop_shlak_2\\GameLoop.h",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Practice2\\Shop_shlak_2\\Shop_shlak_2\\GameLoop.h",
+              "RelativeToolTip": "Shop_shlak_2\\GameLoop.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-20T08:30:58.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clients.h",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Practice2\\Shop_shlak_2\\Shop_shlak_2\\Clients.h",
+              "RelativeDocumentMoniker": "Shop_shlak_2\\Clients.h",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Practice2\\Shop_shlak_2\\Shop_shlak_2\\Clients.h",
+              "RelativeToolTip": "Shop_shlak_2\\Clients.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-20T06:54:00.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Clients.cpp",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\Practice2\\Shop_shlak_2\\Shop_shlak_2\\Clients.cpp",
+              "RelativeDocumentMoniker": "Shop_shlak_2\\Clients.cpp",
+              "ToolTip": "C:\\Users\\super\\Desktop\\Practice2\\Shop_shlak_2\\Shop_shlak_2\\Clients.cpp",
+              "RelativeToolTip": "Shop_shlak_2\\Clients.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-20T07:01:38.624Z",
               "EditorCaption": ""
             }
           ]

@@ -1,37 +1,49 @@
-#include <iostream>
-#include <string>
-#include "Clients.h"
 #include "Listik.h"
 
+#include <iostream>
+#include <string>
 
+#include "Clients.h"
 
+#ifdef _WIN32
+#include <Windows.h>
+#endif
 
+void initTerminal() {
+#ifdef _WIN32
+  SetConsoleCP(1251);
+  SetConsoleOutputCP(1251);
+#endif
+};
 
-
-
-Listik::Listik (Client firstNodeData) {
-    firstNode = new NodeList();
-    firstNode->number;
-    firstNode->data = firstNodeData;
-    firstNode->next = NULL;
-    currentNode = firstNode;
+Listik::Listik(Client firstNodeData) {
+  firstNode = firstNodeData;
+  firstNode.id = 0;
+  firstNode.next = NULL;
+  currentNode = firstNode;
 };
 
 void Listik::addClient(Client newData) {
-    NodeList* newNode = new NodeList();
-    newNode->number = currentNode->number + 1;
-    currentNode->next = newNode;
-    newNode->data = newData;
-    newNode->next = NULL;
-    newNode->prev = currentNode;
-    currentNode = newNode;
+  Client newNode = newData;
+  currentNode.next = &newNode;
+  newNode.next = NULL;
+  newNode.prev = &currentNode;
+  currentNode = newNode;
 };
 
-NodeList* Listik::getFirstClient() const { return firstNode; };
+Client Listik::getFirstClient() const { return firstNode; };
+
+int Listik::size() { return currentNode.id; };
 
 void Listik::deleteFirstClient() {
-    NodeList* tmpNode = firstNode->next;
-    tmpNode->prev = NULL;
-    delete firstNode;
-    firstNode = tmpNode;
+  Client tmpNode = *firstNode.next;
+  tmpNode.prev = NULL;
+  tmpNode.id -= 1;
+  // delete firstNode;
+
+  firstNode = tmpNode;
+  while (tmpNode.next != NULL) {
+    tmpNode = *tmpNode.next;
+    tmpNode.id -= 1;
+  };
 };

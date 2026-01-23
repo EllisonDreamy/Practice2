@@ -1,25 +1,21 @@
 #pragma once
 #include "Clients.h"
 
-struct NodeList {
-    Client data;
-    NodeList* next;
-    NodeList* prev;
-    int number;
-
-    NodeList();
-};
+void initTerminal();
 
 class Listik {
-private:
-    NodeList* firstNode;
-    NodeList* currentNode;
-public:
-    Listik(Client firstNodeData);
+ private:
+  Client firstNode;
+  Client currentNode;
 
-    void addClient(Client newData);
+ public:
+  Listik(Client firstNodeData);
 
-    NodeList* getFirstClient() const;
+  void addClient(Client newData);
 
-    void deleteFirstClient();
+  Client getFirstClient() const;
+
+  int size();
+
+  void deleteFirstClient();
 };

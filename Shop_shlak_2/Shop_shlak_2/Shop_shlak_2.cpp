@@ -1,8 +1,10 @@
-#include "GameLoop.h"
 #include <iostream>
+
+#include "GameLoop.h"
 #include "Listik.h"
-int main()
-{
-	Listik gameData = gamePrep();
-	return gameLoop(gameData);
+int main() {
+  srand(time(NULL));
+  initTerminal();
+  Listik gameData = gamePrep(10);
+  return gameLoop(gameData, 4);
 }
